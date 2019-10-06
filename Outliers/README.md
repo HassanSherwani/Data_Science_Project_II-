@@ -1,3 +1,1 @@
-Ref
-
-https://github.com/krishnaik06/Feature-Engineering/blob/master/03.2_Outliers.ipynb
+Handling of outlier occured due to mechanical error, measurement error or anything else that can't be generalised,
