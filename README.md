@@ -1,3 +1,3 @@
-# Data_Preprocessing
+# Data Science Projects
 
-Some methods and techniques for cleaning and pre-processing.
+Couple of concepts and projects gathered from different sources. Idea is to compile all in one and look up when needed.
